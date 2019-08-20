@@ -1,0 +1,11 @@
+<!DOCTYPEhtml>
+<html>
+<meta charset ="utf-8">
+<title>elementosbloquelinea</title>
+<body>
+<h1>Primera linea bien puesta con los separadores de h</h1>
+<h2>Segunda linea</h2>
+<h3>elementos de bloque usados</h3>
+<p>la linea de los <strong>bloques</strong> bien usados
+</body>
+</html>
